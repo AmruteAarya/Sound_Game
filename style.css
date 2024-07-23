@@ -1,0 +1,50 @@
+body{
+    background-color:darksalmon;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    top: 5px;
+}
+.header_div{
+    border-radius: 100px;
+    background-color:darkslateblue;
+    margin-bottom: 5px;
+    height: 85px;
+   
+}
+#p1 {
+    color:crimson;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.main_div{
+    border-radius: 100px;
+    background-color: cornflowerblue;
+    height: 510px;
+    width: 100%;
+    bottom: 15;
+    position: fixed;
+}
+.main_div button{
+    background-color:indianred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 40px;
+    width: 130px;
+    font-style: oblique;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:ivory;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:darkseagreen;
+    border-radius: 100px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
